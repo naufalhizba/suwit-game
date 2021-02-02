@@ -1,2 +1,3 @@
 # suwit-game
-Suwit Game is a rock, paper, and scissors game. This game is built using Vanilla JavaScript
+Suwit Game was built using Vanilla JavaScript.
+This game is a rock, paper, and scissors game. 
